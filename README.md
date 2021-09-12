@@ -3,7 +3,7 @@
 
 <table>
 <td>
-<a href="https://github.com/caijj">
+<a href="https://github.com/caiojj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojj&theme=dark&hide_langs_below=1" />
 </td>
 
